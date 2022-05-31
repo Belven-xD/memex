@@ -1,5 +1,22 @@
 # Memex
-MemeX's Privacy Policy and Terms of Service.
+Generate random memes from Reddit!
+
+# Commands
+`/help` => Shows the help panel.
+
+`/meme` => Generate a random meme from Reddit.
+
+`/shard` => Shows MemeX's shards.
+
+# Required Permissions
+- send messages
+- read message history
+- embed links
+
+# Links
+[Invite the bot](https://discord.com/api/oauth2/authorize?client_id=972400856739745814&permissions=83968&scope=bot%20applications.commands) | [Support server](https://discord.com/api/oauth2/authorize?client_id=972400856739745814&permissions=83968&scope=bot%20applications.commands)
+### Vote Links
+[discordbotlist.com](https://discordbotlist.com/bots/memex/upvote) | [blist.xyz](https://blist.xyz/bot/972400856739745814/) | [bladelist.gg](https://bladelist.gg/bots/972400856739745814) | [voidbots.net](https://voidbots.net/bot/972400856739745814/) | [bots.discordlabs.org](https://bots.discordlabs.org/bot/972400856739745814?vote) | [discord.rovelstars.com](https://discord.rovelstars.com/bots/972400856739745814/vote)
 
 # Privacy Policy
 ### Data Collection
